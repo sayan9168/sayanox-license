@@ -1,12 +1,3 @@
-## 📚 Documentation & Resources
-
--  [How to Apply the License](HOW_TO_APPLY.md)
-- ❓ [Frequently Asked Questions (FAQ)](FAQ.md)
-- 📝 [Changelog](CHANGELOG.md)
-- 🤝 [Contributing Guidelines](.github/CONTRIBUTING.md)
-- 🛡️ [Code of Conduct](.github/CODE_OF_CONDUCT.md)
--  [Automation Script](add_license.py)
-
 # Sayanox License
 
 An advanced, developer-friendly open source license that balances freedom with proper attribution and protection.
@@ -32,3 +23,11 @@ It gives more protection and recognition to the original developer compared to s
 ---
 
 **Made with ❤️ for developers who want respect for their work.**
+## 📚 Documentation & Resources
+
+-  [How to Apply the License](HOW_TO_APPLY.md)
+- ❓ [Frequently Asked Questions (FAQ)](FAQ.md)
+- 📝 [Changelog](CHANGELOG.md)
+- 🤝 [Contributing Guidelines](.github/CONTRIBUTING.md)
+- 🛡️ [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+-  [Automation Script](add_license.py)
