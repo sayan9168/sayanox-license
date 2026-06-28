@@ -14,3 +14,7 @@ Yes, but if you modify it, you **must** change the name of the license (e.g., "M
 
 ## 5. What happens if there is a legal dispute?
 The license is provided "AS IS", without warranty. Any legal disputes should be resolved according to the jurisdiction specified in the license terms.
+## 6. Can I use the Sayanox License alongside MIT or GPL in my project?
+Yes, the Sayanox License is designed to be permissive. 
+- If your project has multiple components, you can license Component A under MIT and Component B under Sayanox. 
+- However, if you are combining code, ensure that the terms of both licenses do not conflict. For complex multi-license projects, consult a legal professional.
