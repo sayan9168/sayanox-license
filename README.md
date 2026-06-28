@@ -31,3 +31,37 @@ It gives more protection and recognition to the original developer compared to s
 - 🤝 [Contributing Guidelines](.github/CONTRIBUTING.md)
 - 🛡️ [Code of Conduct](.github/CODE_OF_CONDUCT.md)
 -  [Automation Script](add_license.py)
+## 🏷️ Badges & Attribution for Your Project
+
+If you are using the Sayanox License in your project, copy and paste the following snippets:
+
+### GitHub Badge
+Add this to your project's README.md to show you are using Sayanox License:
+```markdown
+[![License: Sayanox 1.1](https://img.shields.io/badge/License-Sayanox%201.1-green.svg)](https://github.com/sayan9168/sayanox-license)
+```
+
+### README.md Footer
+Add this to the bottom of your project's README.md:
+```markdown
+## 📄 License
+This project is licensed under the **Sayanox License, Version 1.1**. 
+See the [LICENSE](LICENSE) file for details.
+```
+
+### package.json (For Node.js/JS Projects)
+```json
+{
+  "license": "Sayanox-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayan9168/sayanox-license"
+  }
+}
+```
+
+### pyproject.toml (For Python Projects)
+```toml
+[project]
+license = { text = "Sayanox-1.1" }
+```
