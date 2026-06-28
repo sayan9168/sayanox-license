@@ -18,3 +18,5 @@ The license is provided "AS IS", without warranty. Any legal disputes should be 
 Yes, the Sayanox License is designed to be permissive. 
 - If your project has multiple components, you can license Component A under MIT and Component B under Sayanox. 
 - However, if you are combining code, ensure that the terms of both licenses do not conflict. For complex multi-license projects, consult a legal professional.
+## ⚠️ Important Rule for Adopters
+If you use this license for your project, **do not change the name** "Sayanox License" and **do not change the version number** unless you have explicitly modified the legal terms. If you modify the terms, you must rename it (e.g., "My Custom License") to avoid confusion.
